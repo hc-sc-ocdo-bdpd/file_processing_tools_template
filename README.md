@@ -13,7 +13,7 @@ To begin installation, clone this repository and then follow one of the below op
 
 > Pre-requisite(s): `Python (v3)`, `ffmpeg`, `Tesseract`. See [here](https://hc-sc-ocdo-bdpd.github.io/file-processing-tools/1_tutorial/1_installation.html#additional-dependencies) for installation. These are not hard requirements; they are used for transcription (audio-to-text) and OCR (image-to-text)
 
-Create the virtual environment: `View` > `Python: Create Environment` > `Venv` > `your-python-version` > `requirements.txt`
+Create the virtual environment in VSCode: `View` (top left of the screen) > `Python: Create Environment` > `Venv` > `your-python-version` > `requirements.txt`
 
 <br>
 
