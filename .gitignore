@@ -1,1 +1,4 @@
 .idea/
+__pycache__
+.github/
+directory_test_files/

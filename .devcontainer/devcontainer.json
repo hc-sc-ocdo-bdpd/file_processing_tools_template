@@ -1,0 +1,4 @@
+{
+	"name": "Your Dev Container",
+	"image": "docker.io/benjaminluohc/file_processing_tools:latest"
+}
