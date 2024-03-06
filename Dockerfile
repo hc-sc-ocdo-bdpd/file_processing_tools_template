@@ -8,5 +8,3 @@ RUN apt-get update && apt-get install -y \
     git
 
 RUN pip install git+https://github.com/hc-sc-ocdo-bdpd/file-processing-tools.git
-
-

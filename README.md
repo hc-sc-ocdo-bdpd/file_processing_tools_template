@@ -28,10 +28,7 @@ If step 2 does not work, then try after replacing the code in `.devcontainer/dev
 
 ```json
 {
-	"name": "My Container",
-	"build": {
-		"context": "..",
-		"dockerfile": "../Dockerfile"
-	}
+	"name": "Your Dev Container",
+	"image": "docker.io/benjaminluohc/file_processing_tools:latest"
 }
 ```
